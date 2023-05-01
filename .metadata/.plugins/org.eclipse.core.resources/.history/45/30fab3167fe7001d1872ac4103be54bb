@@ -1,0 +1,7 @@
+# langague: pt
+
+Funcionalidade: Cadastrando um leilao
+
+	Cenario: Um usuario logado pode cadastrar um leilao
+		Dado o usuario logad
+		

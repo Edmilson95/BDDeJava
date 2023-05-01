@@ -1,0 +1,6 @@
+Feature: Propondo lances
+
+Scenario: Propondo um lance valido
+Given Dado um lance valido
+When Quando propoe o lance
+Them Entao o lance é aceito

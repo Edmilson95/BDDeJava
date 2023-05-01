@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.cucumber.junit.Cucumber"/>
+    <fullyQualifiedTypeName name="io.cucumber.junit.CucumberOptions"/>
+    <fullyQualifiedTypeName name="br.com.alura.leilao.model.Leilao"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.Before"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.After"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="io.cucumber.datatable.DataTable"/>
+    <fullyQualifiedTypeName name="br.com.alura.leilao.model.Lance"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.pt.Dado"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.pt.Quando"/>
+    <fullyQualifiedTypeName name="br.com.alura.leilao.model.Usuario"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+</qualifiedTypeNameHistroy>

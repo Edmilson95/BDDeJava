@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="LeilaoCucumberRunner" project="1821-bdd-cucumber-java-aula1" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="br.com.alura.leilao.acceptance.LeilaoCucumberRunner" time="0.687" displayname="LeilaoCucumberRunner" uniqueid="[engine:junit-vintage]/[runner:br.com.alura.leilao.acceptance.LeilaoCucumberRunner]">
+    <testsuite name="Cadastrando um leilao" time="0.687" uniqueid="[engine:junit-vintage]/[runner:br.com.alura.leilao.acceptance.LeilaoCucumberRunner]/[test:rO0ABXNyAClpby5jdWN1bWJlci5qdW5pdC5GZWF0dXJlUnVubmVyJEZlYXR1cmVJZAAAAAAAAAABAgABTAADdXJpdAAOTGphdmEvbmV0L1VSSTt4cHNyAAxqYXZhLm5ldC5VUkmsAXguQ55JqwMAAUwABnN0cmluZ3QAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdAAhY2xhc3NwYXRoOmZlYXR1cmVzL2xlaWxhby5mZWF0dXJleA==]">
+      <testcase name="Um usuario logado pode cadastrar um leilao" classname="Um usuario logado pode cadastrar um leilao" time="0.687" uniqueid="[engine:junit-vintage]/[runner:br.com.alura.leilao.acceptance.LeilaoCucumberRunner]/[test:rO0ABXNyAClpby5jdWN1bWJlci5qdW5pdC5GZWF0dXJlUnVubmVyJEZlYXR1cmVJZAAAAAAAAAABAgABTAADdXJpdAAOTGphdmEvbmV0L1VSSTt4cHNyAAxqYXZhLm5ldC5VUkmsAXguQ55JqwMAAUwABnN0cmluZ3QAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdAAhY2xhc3NwYXRoOmZlYXR1cmVzL2xlaWxhby5mZWF0dXJleA==]/[test:rO0ABXNyAChpby5jdWN1bWJlci5qdW5pdC5QaWNrbGVSdW5uZXJzJFBpY2tsZUlkAAAAAAAAAAECAAJJAApwaWNrbGVMaW5lTAADdXJpdAAOTGphdmEvbmV0L1VSSTt4cAAAAAZzcgAMamF2YS5uZXQuVVJJrAF4LkOeSasDAAFMAAZzdHJpbmd0ABJMamF2YS9sYW5nL1N0cmluZzt4cHQAIWNsYXNzcGF0aDpmZWF0dXJlcy9sZWlsYW8uZmVhdHVyZXg=]">
+        <error>io.cucumber.junit.UndefinedStepException: The step "um usuario logado" is undefined. You can implement it using the snippet(s) below:
+
+@Dado("um usuario logado")
+public void um_usuario_logado() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Quando("acessa a pagina de novo leilao")
+public void acessa_a_pagina_de_novo_leilao() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Quando("preenche o formulario com dados validos")
+public void preenche_o_formulario_com_dados_validos() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entao("volta para a pagina de leiloes")
+public void volta_para_a_pagina_de_leiloes() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entao("o novo leilao aparece na tabela")
+public void o_novo_leilao_aparece_na_tabela() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

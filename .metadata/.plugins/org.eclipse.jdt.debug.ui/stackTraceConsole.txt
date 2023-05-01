@@ -1,0 +1,23 @@
+io.cucumber.junit.UndefinedStepException: The step "o usuario invalido" is undefined. You can implement it using the snippet(s) below:
+
+@Dado("o usuario invalido")
+public void o_usuario_invalido() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Quando("tenta se logar")
+public void tenta_se_logar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entao("continua na pagina de login")
+public void continua_na_pagina_de_login() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
